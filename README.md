@@ -10,7 +10,7 @@ Eu também sou um estudante de engenharia de software pela universidade Estacio 
 * ✉️ Pode contactar-me em lucca.cerq.viana@gmail.com
 * 🚀 Atualmente estou em busca de um estagio
 * 🧠 Estou aprendendo Javascript, e tenho conhecimento em HTML5 e CSS
-* 🤝 Estou aberto a colaborar e muito ansiso o para meu primeiro estagio na área
+* 🤝 Estou aberto a colaborar e muito ansioso o para meu primeiro estagio na área
 * ⚡ Amo esportes e o meu preferido é o downhill
 
 
